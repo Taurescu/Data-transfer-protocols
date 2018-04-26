@@ -1,6 +1,7 @@
 # Data-transfer-protocols
 
 Here i'll uploade the data protocols(I2c and SPI) i've implemented between an Arduino Mega 2560(slave) and a Raspberry Pi3(Master).
+            I have implemented and used my own versions of libraries for communicating with Arduino registers. 
 
 I2C:
 
